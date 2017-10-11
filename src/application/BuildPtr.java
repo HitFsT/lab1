@@ -9,6 +9,7 @@ import java.util.Set;
 import java.util.Vector;
 import java.util.regex.Matcher;
 //this is nonsense
+//first edition
 public class BuildPtr{
 	final int INF = 1000;
 	final int Max = 100;
