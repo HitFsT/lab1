@@ -17,7 +17,12 @@ import javafx.scene.image.WritableImage;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.web.WebEngine;
 import javafx.scene.web.WebView;
+<<<<<<< HEAD
 
+=======
+//this is nonsense
+//first edition
+>>>>>>> long/master
 public class fxmlController {
 	BuildPtr ptr = new BuildPtr();
     @FXML private WebView browser;
@@ -118,7 +123,3 @@ public class fxmlController {
 
     }
 }
-
-//mingmuzhangdanjiadisange
-//1
-//long

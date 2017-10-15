@@ -8,7 +8,12 @@ import java.util.Random;
 import java.util.Set;
 import java.util.Vector;
 import java.util.regex.Matcher;
+<<<<<<< HEAD
 
+=======
+//this is nonsense
+//first edition
+>>>>>>> long/master
 public class BuildPtr{
 	final int INF = 1000;
 	final int Max = 100;
@@ -221,6 +226,4 @@ public class BuildPtr{
 	}
 }
 
-//toutoujiayihangzhushi
-//1
-//long
+

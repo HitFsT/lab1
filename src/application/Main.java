@@ -4,7 +4,12 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+<<<<<<< HEAD
 
+=======
+//this is nonsense
+//first edition
+>>>>>>> long/master
 public class Main extends Application {
 
 	@Override
@@ -19,7 +24,3 @@ public class Main extends Application {
 		launch(args);
 	}
 }
-
-//toutoujiadierhang
-//1
-//long
